@@ -27,6 +27,19 @@ ff02::3 ip6-allhosts
 
 
 0.0.0.0 teamviewer.com
+0.0.0.0 logmein.com
+0.0.0.0 gotomypc.com
+0.0.0.0 rustdesk.com
+0.0.0.0 remoteutilities.com
+0.0.0.0 supremocontrol.com
+0.0.0.0 splashtop.com
+0.0.0.0 remotedesktop.google.com
+0.0.0.0 beyondtrust.com
+0.0.0.0 helpwire.app
+0.0.0.0 uvnc.com
+0.0.0.0 aeroadmin.com
+0.0.0.0 ammyy.com
+0.0.0.0 parsec.app
 
 # End yoyo.org
 
